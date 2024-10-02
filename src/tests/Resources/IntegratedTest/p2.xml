@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sr>
+  <copyright>Copyright Sveriges Radio 2022. All rights reserved.</copyright>
+  <schedule>
+    <scheduledepisode>
+      <episodeid>1871964</episodeid>
+      <title>test</title>
+      <description>Bjuder dig på unika liveinspelningar av känd och okänd musik från hela EBU. </description>
+      <starttimeutc>2022-02-06T23:00:00Z</starttimeutc>
+      <endtimeutc>2022-02-06T05:00:00Z</endtimeutc>
+      <program id="2523" name="Notturno" />
+      <channel id="163" name="P2" />
+      <imageurl>https://static-cdn.sr.se/images/2523/3144086_2048_1152.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/2523/3144086_2048_1152.jpg</imageurltemplate>
+    </scheduledepisode>
+    <scheduledepisode>
+      <episodeid>34154235</episodeid>
+      <title>test</title>
+      <description>Ajankohtainen ja viihteellinen aamushow, joka kertoo tärkeimmät uutiset ja puheenaiheet Ruotsista, Suomesta ja maailmalta.  </description>
+      <starttimeutc>2022-02-06T05:00:00Z</starttimeutc>
+      <endtimeutc>2022-02-06T05:30:00Z</endtimeutc>
+      <program id="2500" name="Aamu på finska" />
+      <channel id="163" name="P2" />
+      <imageurl>https://static-cdn.sr.se/images/2500/07178f2d-1b1c-4819-a19c-ae3bf0b9580f.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/2500/07178f2d-1b1c-4819-a19c-ae3bf0b9580f.jpg</imageurltemplate>
+      <photographer>Micke Grönberg / Sammy Steen / Sveriges Radio</photographer>
+    </scheduledepisode><scheduledepisode>
+      <episodeid>34154235</episodeid>
+      <title>test</title>
+      <description>Ajankohtainen ja viihteellinen aamushow, joka kertoo tärkeimmät uutiset ja puheenaiheet Ruotsista, Suomesta ja maailmalta.  </description>
+      <starttimeutc>2022-02-06T07:00:00Z</starttimeutc>
+      <endtimeutc>2022-02-06T09:30:00Z</endtimeutc>
+      <program id="2500" name="Aamu på finska" />
+      <channel id="163" name="P2" />
+      <imageurl>https://static-cdn.sr.se/images/1650/9c660750-b6c3-438a-a64f-e236162dd086.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/2500/07178f2d-1b1c-4819-a19c-ae3bf0b9580f.jpg</imageurltemplate>
+      <photographer>Micke Grönberg / Sammy Steen / Sveriges Radio</photographer>
+    </scheduledepisode>
+  </schedule>
+</sr>

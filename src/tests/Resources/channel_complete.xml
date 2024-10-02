@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sr>
+  <copyright>Copyright Sveriges Radio 2021. All rights reserved.</copyright>
+  <pagination>
+    <page>1</page>
+    <size>10</size>
+    <totalhits>52</totalhits>
+    <totalpages>6</totalpages>
+    <nextpage>http://api.sr.se/v2/channels/?page=2</nextpage>
+  </pagination>
+  <channels>
+    <channel id="132" name="P1">
+      <image>test1</image>
+      <imagetemplate>https://static-cdn.sr.se/images/132/2186745_512_512.jpg</imagetemplate>
+      <color>31a1bd</color>
+      <tagline>test1</tagline>
+      <siteurl>https://sverigesradio.se/p1</siteurl>
+      <liveaudio id="132">
+        <url>http://sverigesradio.se/topsy/direkt/srapi/132.mp3</url>
+        <statkey>/app/direkt/p1[k(132)]</statkey>
+      </liveaudio>
+      <scheduleurl>132</scheduleurl>
+      <channeltype>Rikskanal</channeltype>
+      <xmltvid>p1.sr.se</xmltvid>
+    </channel>
+    <channel id="163" name="P2">
+      <image>test2</image>
+      <imagetemplate>https://static-cdn.sr.se/images/163/2186754_512_512.jpg</imagetemplate>
+      <color>ff5a00</color>
+      <tagline>test2</tagline>
+      <siteurl>https://sverigesradio.se/p2</siteurl>
+      <liveaudio id="163">
+        <url>http://sverigesradio.se/topsy/direkt/srapi/163.mp3</url>
+        <statkey>/app/direkt/p2[k(163)]</statkey>
+      </liveaudio>
+      <scheduleurl>163</scheduleurl>
+      <channeltype>Rikskanal</channeltype>
+      <xmltvid>p2.sr.se</xmltvid>
+    </channel>
+  </channels>
+</sr>

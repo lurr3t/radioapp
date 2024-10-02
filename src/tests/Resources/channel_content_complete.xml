@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sr>
+  <copyright>Copyright Sveriges Radio 2021. All rights reserved.</copyright>
+  <pagination>
+    <page>1</page>
+    <size>10</size>
+    <totalhits>60</totalhits>
+    <totalpages>6</totalpages>
+    <nextpage>http://api.sr.se/v2/scheduledepisodes?channelid=132&amp;page=2</nextpage>
+  </pagination>
+  <schedule>
+    <scheduledepisode>
+      <episodeid>1848468</episodeid>
+      <title>Nyheter från Ekot</title>
+      <description>Senaste nytt varje timme från Ekoredaktionen.</description>
+      <starttimeutc>2021-12-25T23:00:00Z</starttimeutc>
+      <endtimeutc>2021-12-25T23:02:00Z</endtimeutc>
+      <program id="5380" name="Nyhetsuppdatering från Ekot" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg</imageurltemplate>
+    </scheduledepisode>
+    <scheduledepisode>
+      <title>Snedtänkt med Kalle Lind</title>
+      <description>Podden som pratar om det inga andra poddar pratar om.</description>
+      <starttimeutc>2021-12-25T23:02:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T00:00:00Z</endtimeutc>
+      <program id="4747" name="Snedtänkt med Kalle Lind" />
+      <channel id="132" name="P1" />
+    </scheduledepisode>
+    <scheduledepisode>
+      <episodeid>1848469</episodeid>
+      <title>Nyheter från Ekot</title>
+      <description>Senaste nytt varje timme från Ekoredaktionen.</description>
+      <starttimeutc>2021-12-26T00:00:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T00:02:00Z</endtimeutc>
+      <program id="5380" name="Nyhetsuppdatering från Ekot" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg</imageurltemplate>
+    </scheduledepisode>
+    <scheduledepisode>
+      <episodeid>1855502</episodeid>
+      <title>På minuten</title>
+      <description>Hans Rosenfeldt och en pratglad panel som inte får tveka, upprepa sig eller lämna ämnet.</description>
+      <starttimeutc>2021-12-26T00:02:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T00:35:00Z</endtimeutc>
+      <program id="1307" name="På minuten" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/1307/2e5a9383-fe3e-45e1-b48a-144d3fbb80ca.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/1307/2e5a9383-fe3e-45e1-b48a-144d3fbb80ca.jpg</imageurltemplate>
+      <photographer>Mette Göthberg</photographer>
+    </scheduledepisode>
+    <scheduledepisode>
+      <episodeid>1871310</episodeid>
+      <title>Ekonomiekot Extra</title>
+      <description>Vem gjorde vad i ekonomivärlden i veckan? Vad var störst, viktigast? Och vilken var detaljen alla missade? Varje vecka diskuterar Ekonomiekot Extra de mest spännande händelserna inom samhällsekonomi och näringsliv. Programledare Hanna Malmodin.</description>
+      <starttimeutc>2021-12-26T00:35:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T01:00:00Z</endtimeutc>
+      <program id="3626" name="Ekonomiekot Extra" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/3626/5d029458-98cf-4fab-819a-4175c6384a44.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/3626/5d029458-98cf-4fab-819a-4175c6384a44.jpg</imageurltemplate>
+    </scheduledepisode>
+    <scheduledepisode>
+      <episodeid>1848470</episodeid>
+      <title>Nyheter från Ekot</title>
+      <description>Senaste nytt varje timme från Ekoredaktionen.</description>
+      <starttimeutc>2021-12-26T01:00:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T01:02:00Z</endtimeutc>
+      <program id="5380" name="Nyhetsuppdatering från Ekot" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg</imageurltemplate>
+    </scheduledepisode>
+    <scheduledepisode>
+      <title>USApodden</title>
+      <description>Sveriges största och skarpaste podd om amerikansk politik.</description>
+      <starttimeutc>2021-12-26T01:02:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T01:50:00Z</endtimeutc>
+      <program id="4923" name="USApodden" />
+      <channel id="132" name="P1" />
+    </scheduledepisode>
+    <scheduledepisode>
+      <title>Skärvor av ett äktenskap</title>
+      <description>Skruvad humorserie med Sissela Benn och Jonatan Unge om parterapi och svårigheten att ha en relation när man bestämt sig för att göra slut. </description>
+      <starttimeutc>2021-12-26T01:50:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T02:00:00Z</endtimeutc>
+      <program id="5383" name="Skärvor av ett äktenskap" />
+      <channel id="132" name="P1" />
+    </scheduledepisode>
+    <scheduledepisode>
+      <episodeid>1848471</episodeid>
+      <title>Nyheter från Ekot</title>
+      <description>Senaste nytt varje timme från Ekoredaktionen.</description>
+      <starttimeutc>2021-12-26T02:00:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T02:02:00Z</endtimeutc>
+      <program id="5380" name="Nyhetsuppdatering från Ekot" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg</imageurltemplate>
+    </scheduledepisode>
+    <scheduledepisode>
+      <episodeid>1865358</episodeid>
+      <title>Jobbiga föräldrar - UR</title>
+      <description>Podden för dig som vill det bästa för ditt barn.</description>
+      <starttimeutc>2021-12-26T02:02:00Z</starttimeutc>
+      <endtimeutc>2021-12-26T02:32:00Z</endtimeutc>
+      <program id="5340" name="Jobbiga föräldrar - UR" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/5340/dd68c61b-e227-42d8-98ae-b0a040e2c026.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/5340/dd68c61b-e227-42d8-98ae-b0a040e2c026.jpg</imageurltemplate>
+    </scheduledepisode>
+  </schedule>
+</sr>

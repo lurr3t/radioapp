@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sr>
+  <copyright>Copyright Sveriges Radio 2022. All rights reserved.</copyright>
+  <schedule>
+    <scheduledepisode>
+      <episodeid>1871637</episodeid>
+      <title>Nyheter från Ekot</title>
+      <description>Senaste nytt varje timme från Ekoredaktionen.</description>
+      <starttimeutc>2022-02-06T23:00:00Z</starttimeutc>
+      <endtimeutc>2022-02-06T23:02:00Z</endtimeutc>
+      <program id="5380" name="Nyhetsuppdatering från Ekot" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/5380/bd64d128-9787-4a22-8a62-d7e83abbbb6e.jpg</imageurltemplate>
+    </scheduledepisode>
+    <scheduledepisode>
+      <episodeid>1888318</episodeid>
+      <title>Nordegren och Epstein i P1</title>
+      <description>En aktuell och personlig talkshow måndag till torsdag med Louise Epstein och Thomas Nordegren.</description>
+      <starttimeutc>2022-02-06T23:02:00Z</starttimeutc>
+      <endtimeutc>2022-02-06T23:45:00Z</endtimeutc>
+      <program id="4058" name="Nordegren &amp; Epstein i P1" />
+      <channel id="132" name="P1" />
+      <imageurl>https://static-cdn.sr.se/images/4058/b331cf14-d746-4b25-a309-dda2c424b99f.jpg?preset=api-default-square</imageurl>
+      <imageurltemplate>https://static-cdn.sr.se/images/4058/b331cf14-d746-4b25-a309-dda2c424b99f.jpg</imageurltemplate>
+    </scheduledepisode>
+  </schedule>
+</sr>
