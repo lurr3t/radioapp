@@ -1,0 +1,1 @@
+cd .. && find src -name '*.class' -type f -delete && cd src && javac Main/Radio.java && java Main/Radio

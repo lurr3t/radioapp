@@ -32,7 +32,7 @@ public class Parser extends ParseTools {
     public Parser(int daysBefore, int daysAfter) throws XMLParseException{
         this.channelParsers = new ArrayList<>();
         this.channelHolder = new ChannelHolder();
-        String[] parameters = {"pagination=false", "format=xml"};
+        String[] parameters = {"pagination=false"};
         this.mainChannelsURL = createQueryString(
                 apiDefault + apiChannels, parameters);
         setChannelParsers(daysBefore,daysAfter);
@@ -65,8 +65,10 @@ public class Parser extends ParseTools {
     protected ParseChannel getParseChannel(String url, String date)
             throws XMLParseException {
         try {
+            System.out.println("DEBUG: getParseChannel 1");
             return new ParseChannel(getStream(url, true), date);
         } catch (IOException e) {
+            System.out.println("DEBUG: getParseChannel 2");
             throw new XMLParseException(
                     "Couldn't open stream from main channel xml:" +
                             " check your internet connection!");
