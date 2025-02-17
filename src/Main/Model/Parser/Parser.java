@@ -65,10 +65,8 @@ public class Parser extends ParseTools {
     protected ParseChannel getParseChannel(String url, String date)
             throws XMLParseException {
         try {
-            System.out.println("DEBUG: getParseChannel 1");
             return new ParseChannel(getStream(url, true), date);
         } catch (IOException e) {
-            System.out.println("DEBUG: getParseChannel 2");
             throw new XMLParseException(
                     "Couldn't open stream from main channel xml:" +
                             " check your internet connection!");

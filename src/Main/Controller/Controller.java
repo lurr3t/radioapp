@@ -103,7 +103,7 @@ public class Controller implements ActionListener {
     protected void startWorker(ActionListener actionListener) {
         view.disableRefreshButton();
 
-        SwingWorker<ChannelContainer, Void> worker = new SwingWorker<>() {
+        SwingWorker<ChannelContainer, Void> worker = new SwingWorker<ChannelContainer, Void>() {
 
             /**
              * Starts the Model run method on a separate thread.
